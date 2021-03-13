@@ -4,9 +4,9 @@
 > Allows one to create any type of video automatically or semi-automatically
 
 ## Requirements:
->geckodriver
->ffmpeg
->python
+> geckodriver
+> ffmpeg
+> python
 
 ## Installing
 ```
